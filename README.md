@@ -22,4 +22,4 @@ El proyecto se creó con:
 
 ![image](https://github.com/ANGEL-RODRIGO-GUTIERREZ-PEDROZA/whatsapp1/assets/144573491/d3d1f2c9-5fe5-43b0-b34d-168ca6955115)
 
-#### REALIZADO POR: AngelRGP (Angel Rodrigo Gutierrez Pedroza) 
+#### REALIZADO POR: Angel Rodrigo Gutierrez Pedroza
